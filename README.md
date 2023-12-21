@@ -1,13 +1,13 @@
 # Goblin With A Fat Ass (GWAFA) TTRPG
 [Goblin With A Fat Ass](https://twitter.com/Orbitaldropkick/status/1728889290040680461) by [Tom Bloom](https://www.patreon.com/killsixbilliondemons) / [@orbitaldropkick](https://twitter.com/Orbitaldropkick) (2023)
 
-Card graphics and Tabletop Simulator adaptation by [@turbits](https://turbits.sh) (2023)
+card graphics and Tabletop Simulator adaptation by [@turbits](https://turbits.sh) (2023)
 
 ## Dear Tom
 if, at any time, you dont want this to exist please let me know
 
 ## What is this?
-I'll let the rules speak for themself.
+ill let the rules speak for themself.
 <br/>
 <br/>
 ![](/literature/gwafa_rule_1.jpeg)
