@@ -6,9 +6,9 @@
 if you dont want this to exist, please let me know
 
 ## what is this
-[!](/literature/gwafa_rule_1.jpeg)
+![](/literature/gwafa_rule_1.jpeg)
 <br/>
-[!](/literature/gwafa_rule_2.jpeg)
+![](/literature/gwafa_rule_2.jpeg)
 
 ## Credits
 - Tom Bloom / @orbitaldropkick for Goblin With A Fat Ass:
