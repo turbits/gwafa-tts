@@ -3,7 +3,7 @@
 - Card graphics and Tabletop Simulator adaptation by @turbits (2023)
 
 ## Dear Tom
-if you dont want this to exist, please let me know
+if, at any time, you dont want this to exist please let me know
 
 ## what is this
 ![](/literature/gwafa_rule_1.jpeg)
