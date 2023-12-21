@@ -6,8 +6,12 @@ Card graphics and Tabletop Simulator adaptation by [@turbits](https://turbits.sh
 ## Dear Tom
 if, at any time, you dont want this to exist please let me know
 
-## what is this
+## What is this?
+I'll let the rules speak for themself.
+<br/>
+<br/>
 ![](/literature/gwafa_rule_1.jpeg)
+<br/>
 <br/>
 ![](/literature/gwafa_rule_2.jpeg)
 
