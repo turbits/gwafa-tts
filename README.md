@@ -1,7 +1,7 @@
 # Goblin With A Fat Ass TTRPG
 [Goblin With A Fat Ass](https://twitter.com/Orbitaldropkick/status/1728889290040680461) by [Tom Bloom](https://www.patreon.com/killsixbilliondemons) / [@Orbitaldropkick](https://twitter.com/Orbitaldropkick) (2023)
 
-card graphics and Tabletop Simulator adaptation by [@turbits](https://turbits.sh) (2023)
+card graphics and Tabletop Simulator adaptation by [@turbits](https://github.com/turbits) (2023). sometimes i [post stuff here](https://turbits.sh/)
 
 workshop ID: 3127313330
 
