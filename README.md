@@ -3,6 +3,8 @@
 
 card graphics and Tabletop Simulator adaptation by [@turbits](https://turbits.sh) (2023)
 
+workshop ID: 3127301082
+
 ## dear tom
 thanks for being cool and blessing this project after i wrote a novel in your dms
 
