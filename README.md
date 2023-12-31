@@ -6,10 +6,10 @@ card graphics and Tabletop Simulator adaptation by [@turbits](https://turbits.sh
 ## dear tom
 thanks for being cool and blessing this project after i wrote a novel in your dms
 
-## why?
-why not
+## what????
+i made some graphics and slapped together a TTS table with some dice, the cards, and the rules. its possible ill revisit this to add scripts or whatever, but my brain chemicals require me to never spend optimal time on a project
 
-## what is this?
+## how to play?
 see the rules:
 <br/>
 <br/>
